@@ -1,2 +1,5 @@
 # Random-Quote-Generator
-Demo: https://laughing-murdock-161b36.netlify.app/
+Demo: https://invvk-quote-generator.netlify.app/
+
+# Screenshots
+![screenshot](https://i.imgur.com/JFcNua0.png)
